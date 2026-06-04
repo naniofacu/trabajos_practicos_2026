@@ -1,10 +1,17 @@
-
-//declarar variable
-let numero1
-//asignar valor
-numero1=10
-//declarar y asignar al mismo tiempo
-let numero2=30
-numero1=5
-//mostrar la informacion
-console.log(numero1+numero1+numero2)
+let suma=numero1+numero2
+let resta=numero1-numero2
+let multiplicacion=numero1*numero2
+let division=numero1/numero2
+let numero1=784
+let numero2=237
+let nombrealumno='uvita'
+let apellidoalumno='fernandez'
+let edadalumno='30'
+let precio1=26
+let precio2=85
+let precio3=88
+let total=precio1+precio2+precio3
+let comidafavorita=beltran
+let colorfavorito=celeste
+let nuemrofavorito=22
+let pais='argentina'
