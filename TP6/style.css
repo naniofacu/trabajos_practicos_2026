@@ -1,0 +1,17 @@
+#body{
+    background-color: darkgoldenrod;
+    color: blue;
+    font-family: Arial;
+    display: flex
+;flex-direction:column
+;align-items: center;
+}
+#parrafo{
+    font-weight: 300;
+    color: darkred;
+}
+#boton1{
+    background-color: gray;
+    color:darkblue ;
+    padding: 10 20 15 5,
+}
