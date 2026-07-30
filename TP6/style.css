@@ -33,10 +33,10 @@ body {
     background-color: #5dade2; 
   }
   
-  #boton1 {
+  #btnfondo {
     background-color: #e74c3c;
   }
-  #boton2:hover {
+  #btntexto:hover {
     background-color: #f1948a;
   }
   
